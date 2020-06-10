@@ -23,6 +23,9 @@ const CURRENCIES = [
     },
     {
         label: 'GBP - British Pound', value: 'gbp'
+    },
+    {
+        label: 'INR - Indian Rupees', value: 'inr'
     }
 ];
 
